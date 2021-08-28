@@ -5,6 +5,7 @@ self.addEventListener('install', (e) => {
       '/komibase/index.html',
       '/komibase/index.js',
       '/komibase/style.css',
+      '/komibase/icon/icon.png',
     ])),
   );
 });

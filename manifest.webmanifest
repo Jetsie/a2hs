@@ -1,15 +1,15 @@
 {
-  "background_color": "purple",
-  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+  "background_color": "black",
+  "description": "Some fun tools to mess up things.",
   "display": "fullscreen",
   "icons": [
     {
-      "src": "icon/fox-icon.png",
+      "src": "icon/icon.png",
       "sizes": "192x192",
       "type": "image/png"
     }
   ],
-  "name": "Awesome fox pictures",
-  "short_name": "Foxes",
+  "name": "Komibase",
+  "short_name": "Komibase",
   "start_url": "index.html"
 }

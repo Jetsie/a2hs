@@ -5,10 +5,6 @@ self.addEventListener('install', (e) => {
       '/komibase/index.html',
       '/komibase/index.js',
       '/komibase/style.css',
-      '/komibase/images/fox1.jpg',
-      '/komibase/images/fox2.jpg',
-      '/komibase/images/fox3.jpg',
-      '/komibase/images/fox4.jpg',
     ])),
   );
 });
